@@ -3,3 +3,4 @@ pyswisseph
 pandas
 geopy
 timezonefinder
+tzdata
