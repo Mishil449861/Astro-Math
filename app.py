@@ -14,8 +14,10 @@ from zoneinfo import available_timezones
 import pandas as pd
 import streamlit as st
 
+import ai_provider
 import ashtakavarga as avg
 import astro_engine as ae
+import interpret_ai
 import matching
 import panchanga
 import strength
@@ -890,6 +892,54 @@ with tab2:
                            file_name=f"astro_{label.replace(' ', '_').replace(',', '')}.csv", mime="text/csv")
     else:
         st.info("No exact contacts, sign changes, lunations or eclipses fall inside this period.")
+
+
+# ---- written reading by a language model (only when one is available) -------------
+@st.cache_resource(ttl=60)
+def ai_engine():
+    return ai_provider.get_provider()
+
+
+engine = ai_engine()
+if engine is not None:
+    st.divider()
+    st.subheader("Written reading")
+    st.caption(f"{engine.privacy_note} The model may only use the facts calculated above: every sentence "
+               "must cite one, and the answer is checked for invented placements, dates and banned topics "
+               "before it is shown. It can still word a meaning oddly, so read it as a summary of the "
+               "tables, not as extra information.")
+    with st.form("ai_form"):
+        question = st.text_input("Ask something (optional)",
+                                 placeholder="How does my career look in this period?")
+        ask = st.form_submit_button("Write my reading")
+    ai_key = (system, ayanamsa, bdate, birth_time, window, offset_s, constraint_key, label, question.strip())
+    if ask:
+        facts = (interpret_ai.vedic_facts(natal, report, label, extras["yogas"]) if system.startswith("Vedic")
+                 else interpret_ai.western_facts(natal, report, label))
+        with st.spinner("Writing" + (" (a local model can take a minute)…" if engine.name == "ollama" else "…")):
+            try:
+                out = interpret_ai.interpret(facts, engine.call, question.strip() or None)
+                out["answered_by"] = engine.answered_by
+                st.session_state["ai"] = (ai_key, facts, out)
+            except ai_provider.ProviderError as exc:
+                st.session_state.pop("ai", None)
+                st.error(str(exc))
+    saved = st.session_state.get("ai")
+    if saved and saved[0] == ai_key:
+        _, facts, out = saved
+        if out.get("answered_by", engine.model) != engine.model:
+            st.caption(f"Written by {out['answered_by']}: {engine.model} had reached its daily limit or was busy.")
+        if out["ok"]:
+            with st.container(border=True):
+                st.write(out["text"])
+            with st.expander(f"Based on these {len(out['cited'])} facts"):
+                st.markdown("\n".join(f"- {c}" for c in out["cited"]) or "No facts cited.")
+        else:
+            st.warning("The written answer failed the fact check twice, so here are the facts it was given "
+                       "instead.")
+            with st.expander("What the check found"):
+                st.markdown("\n".join(f"- {p}" for p in out["problems"]))
+            st.markdown("\n".join(f"- {f}" for f in facts.facts))
 
 st.divider()
 st.caption("Planet positions are astronomically exact (Swiss Ephemeris, including precession). "

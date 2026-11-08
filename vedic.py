@@ -376,7 +376,10 @@ def analyze_vedic(chart: Chart, natal: dict, start: datetime, end: datetime, tz:
         vname = "Amavasya (New Moon)" if name == "New Moon" else "Purnima (Full Moon)"
         events.append({"when": from_jd(jd, tz), "tone": "neutral",
                        "event": f"{vname} in {NAKSHATRAS[int(mlon // NAK) % 27]}, {rashi_name(int(mlon // 30))}",
-                       "meaning": f"Falls in the {ordinal(house_from(int(mlon // 30), moon_sign))} from your Moon."})
+                       "meaning": (f"Falls in the {ordinal(house_from(int(mlon // 30), moon_sign))} from your Moon. "
+                                   + ("Traditionally a day for rest and remembrance rather than new starts."
+                                      if name == "New Moon" else
+                                      "Traditionally a time of fullness and culmination, favoured for worship."))})
     eclipses = find_eclipses(chart, jd0, jd1)
     for ec in eclipses:
         ec["when"] = from_jd(ec["jd"], tz)
@@ -394,7 +397,8 @@ def analyze_vedic(chart: Chart, natal: dict, start: datetime, end: datetime, tz:
         events.append({"when": ec["when"], "tone": "challenging" if notes else "neutral",
                        "event": f"{ec['type']} {ec['kind'].lower()} eclipse (grahan) in {NAKSHATRAS[n_idx]}, {rashi_name(int(ec['lon'] // 30))}",
                        "meaning": f"With {ec['near_node'].split('(')[1].rstrip(')')}; {ordinal(h)} from your Moon"
-                                  + (": " + "; ".join(notes) + "." if notes else ".")})
+                                  + (": " + "; ".join(notes) + "." if notes else ".")
+                                  + " Traditionally not a time for new beginnings; rest, prayer and charity are favoured."})
     for md_ in vs["dashas"]:
         for ad_ in md_["subs"]:
             if jd0 <= ad_["start"] < jd1:

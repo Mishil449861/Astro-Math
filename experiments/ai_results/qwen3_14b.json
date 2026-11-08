@@ -1,0 +1,351 @@
+[
+ {
+  "model": "qwen3:14b",
+  "person": "Albert Einstein",
+  "system": "Vedic",
+  "question": null,
+  "status": "pass after retry",
+  "attempts": [
+   {
+    "seconds": 44.3,
+    "raw": "November 2026 brings a mix of challenges and opportunities. Your transit Sun in Libra and Scorpio, along with Mars in Cancer and Leo, may bring pressure around finances, sleep, and work [F12][F13][F14][F15][F16]. However, Venus in Virgo and Libra offers moments of support in income and friendships [F19][F20][F21]. A New Moon on 5 November and Full Moon on 24 November may bring shifts in energy and focus [F28][F24]. Your Mercury and Jupiter in Aquarius and Pisces, along with the Raja yoga, suggest potential for authority and success in career and reputation [F35][F36][F37][F38][F39][F43]. The Budha-Aditya yoga highlights your skill with words and intelligence [F35]. Be mindful of Mars’ influence, as it may bring heat and pushiness in matters related to your Moon [F26]. Overall, this period calls for patience and strategic thinking.",
+    "problems": [
+     "Mercury in Aquarius is not in the fact sheet."
+    ]
+   },
+   {
+    "seconds": 31.4,
+    "raw": "November 2026 brings a mix of challenges and opportunities. Your transit Sun in Libra and Scorpio, along with Mars in Cancer and Leo, may bring pressure around finances, sleep, and work [F12][F13][F14][F15][F16]. However, Venus in Virgo and Libra offers moments of support in income and friendships [F19][F20][F21]. A New Moon on 5 November and Full Moon on 24 November may bring shifts in energy and focus [F28][F24]. The Raja yoga suggests potential for authority and success in career and reputation [F36][F43]. The Budha-Aditya yoga highlights your skill with words and intelligence [F35]. Be mindful of Mars’ influence, as it may bring heat and pushiness in matters related to your Moon [F26]. Overall, this period calls for patience and strategic thinking.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of challenges and opportunities. Your transit Sun in Libra and Scorpio, along with Mars in Cancer and Leo, may bring pressure around finances, sleep, and work. However, Venus in Virgo and Libra offers moments of support in income and friendships. A New Moon on 5 November and Full Moon on 24 November may bring shifts in energy and focus. The Raja yoga suggests potential for authority and success in career and reputation. The Budha-Aditya yoga highlights your skill with words and intelligence. Be mindful of Mars’ influence, as it may bring heat and pushiness in matters related to your Moon. Overall, this period calls for patience and strategic thinking.",
+  "facts": 46
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Albert Einstein",
+  "system": "Western",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 36.2,
+    "raw": "November 2026 brings a time of gentle shifts and opportunities for growth. Your communication and plans are in focus, with transits like Pluto sextile Mercury [F22] and Uranus sextile Mercury [F23] suggesting transformative changes that may bring clarity and breakthroughs. These energies align with your Mercury in Aries [F4] and Venus in Aries [F5], which traditionally link with assertiveness and passion in expression.\n\nYour duties and commitments are also being touched by powerful transits, like Uranus sextile Saturn [F21] and Pluto sextile Saturn [F24], which can bring unexpected changes that may lead to greater stability or new responsibilities. These transits work well with your Saturn in Aries [F8], which traditionally relates to ambition and determination.\n\nNovember brings several harmonious events, including a New Moon in Scorpio [F36], a time for setting fresh intentions, and a Sun trine your Ascendant [F32], which may boost your confidence and self-image. Overall, this period feels supportive, with opportunities for positive change and growth.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a time of gentle shifts and opportunities for growth. Your communication and plans are in focus, with transits like Pluto sextile Mercury and Uranus sextile Mercury suggesting transformative changes that may bring clarity and breakthroughs. These energies align with your Mercury in Aries and Venus in Aries, which traditionally link with assertiveness and passion in expression.\n\nYour duties and commitments are also being touched by powerful transits, like Uranus sextile Saturn and Pluto sextile Saturn, which can bring unexpected changes that may lead to greater stability or new responsibilities. These transits work well with your Saturn in Aries, which traditionally relates to ambition and determination.\n\nNovember brings several harmonious events, including a New Moon in Scorpio, a time for setting fresh intentions, and a Sun trine your Ascendant, which may boost your confidence and self-image. Overall, this period feels supportive, with opportunities for positive change and growth.",
+  "facts": 42
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Mohandas Gandhi",
+  "system": "Vedic",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 37.8,
+    "raw": "November 2026 brings a mix of opportunities and challenges. Your home life and sense of security may feel unsettled, as the Sun and Mercury move through the 4th house from your Moon [F14][F18]. This could be a time to review property matters or seek emotional grounding.  \n\nThe 2nd house from your Moon, linked to money and family, sees both Mars and Jupiter in motion. Mars’ transit here is traditionally unfavourable [F17], but Jupiter brings support [F19], suggesting a balance between caution and growth.  \n\nVenus moves through Libra and Virgo, offering chances for relationships and creativity, though results may be slow [F20][F21]. A New Moon on 9th November in Libra may bring fresh starts, but it falls in the 4th house from your Moon, so focus on stability [F28].  \n\nOverall, the period is shaped by traditional yogas like Amala and Raja, pointing to reputation and success [F35][F39]. Stay patient, and let opportunities unfold naturally.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of opportunities and challenges. Your home life and sense of security may feel unsettled, as the Sun and Mercury move through the 4th house from your Moon. This could be a time to review property matters or seek emotional grounding.  \n\nThe 2nd house from your Moon, linked to money and family, sees both Mars and Jupiter in motion. Mars’ transit here is traditionally unfavourable, but Jupiter brings support, suggesting a balance between caution and growth.  \n\nVenus moves through Libra and Virgo, offering chances for relationships and creativity, though results may be slow. A New Moon on 9th November in Libra may bring fresh starts, but it falls in the 4th house from your Moon, so focus on stability.  \n\nOverall, the period is shaped by traditional yogas like Amala and Raja, pointing to reputation and success. Stay patient, and let opportunities unfold naturally.",
+  "facts": 47
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Mohandas Gandhi",
+  "system": "Western",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 42.8,
+    "raw": "November 2026 brings a mix of challenges and opportunities, with a focus on communication, self, and growth. Your Sun in Libra and Moon in Leo suggest a desire for balance and self-expression, but with Mercury, Venus, and Mars in Scorpio, there's a strong pull toward intensity and transformation [F2][F3][F4][F5][F6].  \n\nTransits are testing, especially with Saturn opposite your Sun on 6 November, which may bring pressure around self-image and vitality [F22]. Pluto’s square to Mercury (until December 2027) hints at deep changes in communication and planning, possibly through power dynamics or endings [F23].  \n\nMars’ activity in late October and early November could bring energy and conflict, especially around emotions and home, and growth and beliefs [F24][F25][F26]. However, the New Moon on 9 November offers a chance for fresh starts, particularly in love, money, and drive [F37].  \n\nBy mid-November, Mercury and Venus turning direct may help things move forward again [F41][F42]. The Sun’s entry into Sagittarius on 22 November could open new horizons and bring a more adventurous tone to your focus and vitality [F43].",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of challenges and opportunities, with a focus on communication, self, and growth. Your Sun in Libra and Moon in Leo suggest a desire for balance and self-expression, but with Mercury, Venus, and Mars in Scorpio, there's a strong pull toward intensity and transformation.  \n\nTransits are testing, especially with Saturn opposite your Sun on 6 November, which may bring pressure around self-image and vitality. Pluto’s square to Mercury (until December 2027) hints at deep changes in communication and planning, possibly through power dynamics or endings.  \n\nMars’ activity in late October and early November could bring energy and conflict, especially around emotions and home, and growth and beliefs. However, the New Moon on 9 November offers a chance for fresh starts, particularly in love, money, and drive.  \n\nBy mid-November, Mercury and Venus turning direct may help things move forward again. The Sun’s entry into Sagittarius on 22 November could open new horizons and bring a more adventurous tone to your focus and vitality.",
+  "facts": 43
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Billie Eilish",
+  "system": "Vedic",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 36.2,
+    "raw": "November 2026 brings a mix of opportunities and challenges. Your career and status may see positive movement, especially around early November, as the Sun and Mercury transit the 10th house from your Moon [F14][F18]. However, these gains may feel obstructed at times due to influences from Jupiter and Mars [F18].  \n\nRelationships and partnerships could be tested, as Mars moves into Cancer and then Leo, both falling in the 7th and 8th houses from your Moon, which traditionally bring tension and unexpected events [F16][F17].  \n\nOn the brighter side, Venus’s movement through Virgo and Libra may support long journeys and learning, though its position in Libra could create some friction in career matters [F21][F22].  \n\nA New Moon on 9th November in Libra may be a time for fresh starts, especially in matters related to your public image or career [F29].  \n\nOverall, this period invites you to balance ambition with patience, as the energies are both supportive and challenging.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of opportunities and challenges. Your career and status may see positive movement, especially around early November, as the Sun and Mercury transit the 10th house from your Moon. However, these gains may feel obstructed at times due to influences from Jupiter and Mars.  \n\nRelationships and partnerships could be tested, as Mars moves into Cancer and then Leo, both falling in the 7th and 8th houses from your Moon, which traditionally bring tension and unexpected events.  \n\nOn the brighter side, Venus’s movement through Virgo and Libra may support long journeys and learning, though its position in Libra could create some friction in career matters.  \n\nA New Moon on 9th November in Libra may be a time for fresh starts, especially in matters related to your public image or career.  \n\nOverall, this period invites you to balance ambition with patience, as the energies are both supportive and challenging.",
+  "facts": 45
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Billie Eilish",
+  "system": "Western",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 40.2,
+    "raw": "November 2026 brings a period of growth and opportunity, with a supportive tone overall. Your self and vitality are in focus, with Jupiter’s trine to your Sun [F23] encouraging optimism and expansion. This is a time to embrace new experiences and explore your beliefs, as the Sun enters Sagittarius on the 22nd [F42], bringing an adventurous and philosophical energy. \n\nYour career and reputation may feel a bit mixed, with Neptune’s square to your Midheaven [F24] introducing some confusion or idealism. This could push you to clarify your goals or reassess your public image. However, Mars’ trine to your Midheaven [F27] adds drive and energy, helping you move forward with confidence.\n\nIn your personal life, Venus’ sextile to your Sun [F28] brings affection and pleasure, suggesting a time for social connections and enjoying life’s simple joys. Be mindful of Mercury’s square to your Moon on the 3rd and 24th [F30], which may bring some tension in communication or emotional matters, but this can lead to necessary changes.\n\nOverall, this is a time of growth, with supportive transits helping you make progress in key areas of your life.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a period of growth and opportunity, with a supportive tone overall. Your self and vitality are in focus, with Jupiter’s trine to your Sun encouraging optimism and expansion. This is a time to embrace new experiences and explore your beliefs, as the Sun enters Sagittarius on the 22nd, bringing an adventurous and philosophical energy. \n\nYour career and reputation may feel a bit mixed, with Neptune’s square to your Midheaven introducing some confusion or idealism. This could push you to clarify your goals or reassess your public image. However, Mars’ trine to your Midheaven adds drive and energy, helping you move forward with confidence.\n\nIn your personal life, Venus’ sextile to your Sun brings affection and pleasure, suggesting a time for social connections and enjoying life’s simple joys. Be mindful of Mercury’s square to your Moon on the 3rd and 24th, which may bring some tension in communication or emotional matters, but this can lead to necessary changes.\n\nOverall, this is a time of growth, with supportive transits helping you make progress in key areas of your life.",
+  "facts": 42
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Greta Thunberg",
+  "system": "Vedic",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 40.4,
+    "raw": "November 2026 brings a mix of opportunities and challenges. The overall gochara (transits) is favourable [F13], with several transits pointing to gains and income, particularly in early November when the Sun and Mercury are in Libra, the 11th house from your Moon [F14][F18]. This is a time to focus on friendships and financial matters.  \n\nHowever, later in the month, the Sun moves into Scorpio, the 12th house from your Moon, which traditionally brings expenses and losses [F15]. Mars also moves into Leo, the 9th house from your Moon, which may bring obstacles or delays in long journeys or matters related to teachers [F17].  \n\nThe transit of Jupiter in Leo is generally favourable, though obstructed by Venus [F19]. This suggests opportunities may come with some hurdles.  \n\nAmavasya on 9 November and Purnima on 24 November are significant lunar events, potentially influencing your emotional state and relationships.  \n\nOverall, this period invites both growth and caution, with the need to balance optimism with careful planning.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of opportunities and challenges. The overall gochara (transits) is favourable, with several transits pointing to gains and income, particularly in early November when the Sun and Mercury are in Libra, the 11th house from your Moon. This is a time to focus on friendships and financial matters.  \n\nHowever, later in the month, the Sun moves into Scorpio, the 12th house from your Moon, which traditionally brings expenses and losses. Mars also moves into Leo, the 9th house from your Moon, which may bring obstacles or delays in long journeys or matters related to teachers.  \n\nThe transit of Jupiter in Leo is generally favourable, though obstructed by Venus. This suggests opportunities may come with some hurdles.  \n\nAmavasya on 9 November and Purnima on 24 November are significant lunar events, potentially influencing your emotional state and relationships.  \n\nOverall, this period invites both growth and caution, with the need to balance optimism with careful planning.",
+  "facts": 40
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Greta Thunberg",
+  "system": "Western",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 34.1,
+    "raw": "November 2026 brings a mix of opportunities and challenges, with love and money feeling especially active and intense [F14]. Your approach to duties and commitments is supported, with Jupiter and Mars aligning in ways that can help you move forward with confidence [F21][F22]. However, love and money may experience some friction, especially around mid-November, as Jupiter and Mars square your Venus, pushing you toward necessary changes [F20][F23]. \n\nYour communication and plans may gain visibility, especially around the 20th, as the Sun sextiles your Mercury, bringing clarity and momentum [F25]. A New Moon on the 9th offers a fresh start, traditionally a time to set intentions [F35]. \n\nWith Mercury and Venus turning direct in late November, relationships and money may begin to flow more smoothly again [F38][F39]. This period invites reflection and adjustment, with the potential for growth if you stay open to change.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of opportunities and challenges, with love and money feeling especially active and intense. Your approach to duties and commitments is supported, with Jupiter and Mars aligning in ways that can help you move forward with confidence. However, love and money may experience some friction, especially around mid-November, as Jupiter and Mars square your Venus, pushing you toward necessary changes. \n\nYour communication and plans may gain visibility, especially around the 20th, as the Sun sextiles your Mercury, bringing clarity and momentum. A New Moon on the 9th offers a fresh start, traditionally a time to set intentions. \n\nWith Mercury and Venus turning direct in late November, relationships and money may begin to flow more smoothly again. This period invites reflection and adjustment, with the potential for growth if you stay open to change.",
+  "facts": 41
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Emma Raducanu",
+  "system": "Vedic",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 36.8,
+    "raw": "November 2026 brings a mix of energies. The Sun’s transit through Libra [F14] and Scorpio [F15] suggests a time of reflection and change, with opportunities for growth in career and status [F15]. However, the traditional verdict for these transits is mixed, so outcomes may depend on other factors [F13].  \n\nMercury’s direct motion [F32] and Venus’s return to Virgo [F29] could bring clarity in communication and finances, but with some unpredictability due to their retrograde nature [F32][F33].  \n\nThe Full Moon on 24 November [F36] may highlight emotional needs or family matters, while the New Moon on 9 November [F30] could mark a fresh start in areas linked to luck and long journeys [F30].  \n\nMars’s movement into Leo [F31] may bring tension in relationships or travel, so patience is advised [F17].  \n\nOverall, this period invites both challenges and opportunities, with the need to stay adaptable and open to change.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of energies. The Sun’s transit through Libra and Scorpio suggests a time of reflection and change, with opportunities for growth in career and status. However, the traditional verdict for these transits is mixed, so outcomes may depend on other factors.  \n\nMercury’s direct motion and Venus’s return to Virgo could bring clarity in communication and finances, but with some unpredictability due to their retrograde nature.  \n\nThe Full Moon on 24 November may highlight emotional needs or family matters, while the New Moon on 9 November could mark a fresh start in areas linked to luck and long journeys.  \n\nMars’s movement into Leo may bring tension in relationships or travel, so patience is advised.  \n\nOverall, this period invites both challenges and opportunities, with the need to stay adaptable and open to change.",
+  "facts": 40
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Emma Raducanu",
+  "system": "Western",
+  "question": null,
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 39.6,
+    "raw": "November 2026 brings a mix of challenges and opportunities, with a focus on duties, communication, and personal vitality. Your Sun in Scorpio and Mercury in Scorpio [F2][F4] suggest a deep, intense drive that may come under pressure during key events like Mars square your Sun on 6 November [F21] and Mars square your Mercury on 5 November [F22]. These moments may bring friction but could also push meaningful change.\n\nYour Moon in Pisces [F3] adds a dreamy, intuitive layer, which may help you navigate tense situations with compassion. The transit of Jupiter sextile Saturn [F25] supports your duties and commitments, offering growth and opportunities that align well with your long-term goals.\n\nA New Moon on 9 November [F32] is a good time to set intentions, while the Full Moon in Gemini on 24 November [F40] may bring emotional clarity or a need to release something from the past. Mercury turning direct on 13 November [F36] and Venus on 14 November [F37] signal a shift toward clearer communication and progress in relationships and finances.\n\nOverall, this period invites you to balance intensity with patience, using your inner strength to move forward.",
+    "problems": []
+   }
+  ],
+  "final": "November 2026 brings a mix of challenges and opportunities, with a focus on duties, communication, and personal vitality. Your Sun in Scorpio and Mercury in Scorpio suggest a deep, intense drive that may come under pressure during key events like Mars square your Sun on 6 November and Mars square your Mercury on 5 November. These moments may bring friction but could also push meaningful change.\n\nYour Moon in Pisces adds a dreamy, intuitive layer, which may help you navigate tense situations with compassion. The transit of Jupiter sextile Saturn supports your duties and commitments, offering growth and opportunities that align well with your long-term goals.\n\nA New Moon on 9 November is a good time to set intentions, while the Full Moon in Gemini on 24 November may bring emotional clarity or a need to release something from the past. Mercury turning direct on 13 November and Venus on 14 November signal a shift toward clearer communication and progress in relationships and finances.\n\nOverall, this period invites you to balance intensity with patience, using your inner strength to move forward.",
+  "facts": 41
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Albert Einstein",
+  "system": "Vedic",
+  "question": "career",
+  "status": "fail",
+  "attempts": [
+   {
+    "seconds": 28.3,
+    "raw": "This month, your career may feel challenging. Transiting Mars and Jupiter in the 10th house from your Moon [F16][F18] traditionally bring difficulties in career and status, though Jupiter is supported by Ashtakavarga. However, Venus in Virgo and Libra [F20][F21] is traditionally favourable for gains and friends, which could help you navigate these times. On the 12th, Mars enters Leo, which is traditionally unfavourable for career [F29]. Mercury turning direct on the 13th may bring clarity, though its retrograde nature makes results erratic [F30]. Overall, the period is mixed, with both obstacles and opportunities for growth.",
+    "problems": [
+     "The date 13 May is not on the fact sheet."
+    ]
+   },
+   {
+    "seconds": 23.2,
+    "raw": "This month, your career may feel challenging. Transiting Mars and Jupiter in the 10th house from your Moon [F16][F18] traditionally bring difficulties in career and status, though Jupiter is supported by Ashtakavarga. On the 12th, Mars enters Leo, which is traditionally unfavourable for career [F29]. Mercury turning direct on the 13th may bring clarity, though its retrograde nature makes results erratic [F30]. Venus in Virgo and Libra [F20][F21] is traditionally favourable for gains and friends, which could help you navigate these times. Overall, the period is mixed, with both obstacles and opportunities for growth.",
+    "problems": [
+     "The date 13 May is not on the fact sheet."
+    ]
+   }
+  ],
+  "final": "This month, your career may feel challenging. Transiting Mars and Jupiter in the 10th house from your Moon traditionally bring difficulties in career and status, though Jupiter is supported by Ashtakavarga. On the 12th, Mars enters Leo, which is traditionally unfavourable for career. Mercury turning direct on the 13th may bring clarity, though its retrograde nature makes results erratic. Venus in Virgo and Libra is traditionally favourable for gains and friends, which could help you navigate these times. Overall, the period is mixed, with both obstacles and opportunities for growth.",
+  "facts": 46
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Albert Einstein",
+  "system": "Vedic",
+  "question": "health",
+  "status": "fail",
+  "attempts": [
+   {
+    "seconds": 7.6,
+    "raw": "The facts provided do not mention anything about health, lifespan, or death. Astrology readings are not a substitute for medical advice, and this question cannot be answered from the information given.",
+    "problems": [
+     "Mentions a banned topic (death or lifespan)."
+    ]
+   },
+   {
+    "seconds": 7.2,
+    "raw": "The facts provided do not mention anything about health, lifespan, or death. Astrology readings are not a substitute for medical advice, and this question cannot be answered from the information given.",
+    "problems": [
+     "Mentions a banned topic (death or lifespan)."
+    ]
+   }
+  ],
+  "final": "The facts provided do not mention anything about health, lifespan, or death. Astrology readings are not a substitute for medical advice, and this question cannot be answered from the information given.",
+  "facts": 46
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Albert Einstein",
+  "system": "Vedic",
+  "question": "money",
+  "status": "pass after retry",
+  "attempts": [
+   {
+    "seconds": 33.7,
+    "raw": "This month, the transits and yogas suggest a time of caution rather than bold action. The overall gochara is challenging [F12], and several transits, like Sun and Mars in unfavourable positions, may create uncertainty [F13][F15]. Venus, traditionally linked with wealth, moves through mixed signs—favourable in Virgo [F20], but less so in Libra [F19][F21]. \n\nYogas like Raja and Neecha Bhanga Raja hint at potential for success and recovery from setbacks [F41][F45], but they don’t guarantee gains from high-risk ventures like crypto. The 12th house, linked to losses and foreign matters, is heavily influenced by transiting planets [F13][F17], which could amplify risks. \n\nWithout more details on your financial situation or natal chart, it's hard to say if this is the right time. Consider waiting for more stable transits or consulting a financial advisor.",
+    "problems": [
+     "Mentions a banned topic (certainty)."
+    ]
+   },
+   {
+    "seconds": 35.4,
+    "raw": "This month, the transits suggest a time to be cautious with major financial decisions. The overall gochara is challenging [F12], and several transits, such as Sun and Mars in unfavourable positions, may bring uncertainty [F13][F15]. Venus, traditionally linked with wealth, moves through signs with mixed influences—favourable in Virgo [F20], but also in Libra, which astrologers read as a sign of expenses and foreign matters [F19][F21].\n\nYogas like Raja and Neecha Bhanga Raja hint at potential for success and recovery from setbacks [F41][F45], but they do not indicate a clear signal for high-risk investments like crypto. The 12th house, linked to losses and foreign matters, is heavily influenced by transiting planets [F13][F17], which could amplify risks.\n\nWithout more details on your financial situation or natal chart, it's hard to say if this is the right time. Consider waiting for more stable transits or seeking advice from a financial professional.",
+    "problems": []
+   }
+  ],
+  "final": "This month, the transits suggest a time to be cautious with major financial decisions. The overall gochara is challenging, and several transits, such as Sun and Mars in unfavourable positions, may bring uncertainty. Venus, traditionally linked with wealth, moves through signs with mixed influences—favourable in Virgo, but also in Libra, which astrologers read as a sign of expenses and foreign matters.\n\nYogas like Raja and Neecha Bhanga Raja hint at potential for success and recovery from setbacks, but they do not indicate a clear signal for high-risk investments like crypto. The 12th house, linked to losses and foreign matters, is heavily influenced by transiting planets, which could amplify risks.\n\nWithout more details on your financial situation or natal chart, it's hard to say if this is the right time. Consider waiting for more stable transits or seeking advice from a financial professional.",
+  "facts": 46
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Albert Einstein",
+  "system": "Vedic",
+  "question": "trap",
+  "status": "fail",
+  "attempts": [
+   {
+    "seconds": 21.3,
+    "raw": "Your Venus in Scorpio traditionally links with deep, intense, and passionate love experiences. Scorpio is a sign that values emotional depth, transformation, and connection on a soul level [F4]. This placement can bring a love life that is rich in mystery, desire, and emotional intensity [F4]. Venus in Scorpio is also associated with a strong will to explore the emotional and spiritual dimensions of relationships [F4]. However, it may also bring challenges in expressing love openly or dealing with jealousy and possessiveness [F4]. Overall, your love life may be marked by profound connections and a desire for deep intimacy [F4].",
+    "problems": [
+     "Claim without a fact citation: \"Your Venus in Scorpio traditionally links with deep, intense, and passionate love experien\"",
+     "Venus in Scorpio is not in the fact sheet."
+    ]
+   },
+   {
+    "seconds": 19.6,
+    "raw": "The fact sheet does not mention Venus in Scorpio, so we cannot discuss what that placement means for your love life. Instead, the fact sheet shows that your natal Moon is in Scorpio [F4]. In traditional astrology, the Moon is linked with emotions, inner needs, and the way we experience love and relationships. The Moon in Scorpio may bring a love life that is deeply emotional, with a strong need for security and transformation in relationships [F4]. However, since the question refers to Venus in Scorpio, which is not on the fact sheet, we cannot provide a reading on that specific placement.",
+    "problems": [
+     "Claim without a fact citation: \"The fact sheet does not mention Venus in Scorpio, so we cannot discuss what that placement\"",
+     "Venus in Scorpio is not in the fact sheet.",
+     "Claim without a fact citation: \"However, since the question refers to Venus in Scorpio, which is not on the fact sheet, we\""
+    ]
+   }
+  ],
+  "final": "The fact sheet does not mention Venus in Scorpio, so we cannot discuss what that placement means for your love life. Instead, the fact sheet shows that your natal Moon is in Scorpio. In traditional astrology, the Moon is linked with emotions, inner needs, and the way we experience love and relationships. The Moon in Scorpio may bring a love life that is deeply emotional, with a strong need for security and transformation in relationships. However, since the question refers to Venus in Scorpio, which is not on the fact sheet, we cannot provide a reading on that specific placement.",
+  "facts": 46
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Greta Thunberg",
+  "system": "Western",
+  "question": "career",
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 8.7,
+    "raw": "The fact sheet doesn’t include information about your career, such as planets or houses related to work or professional life. Without this, I can’t provide a reading about your career this month.",
+    "problems": []
+   }
+  ],
+  "final": "The fact sheet doesn’t include information about your career, such as planets or houses related to work or professional life. Without this, I can’t provide a reading about your career this month.",
+  "facts": 41
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Greta Thunberg",
+  "system": "Western",
+  "question": "health",
+  "status": "fail",
+  "attempts": [
+   {
+    "seconds": 9.7,
+    "raw": "Your chart does not provide information about health or lifespan, so I can't say whether you will get seriously ill or die this year. Astrology readings are not a substitute for medical advice, and this question is outside the scope of what can be addressed with the facts provided.",
+    "problems": [
+     "Mentions a banned topic (death or lifespan)."
+    ]
+   },
+   {
+    "seconds": 8.7,
+    "raw": "Your chart does not provide information about health or lifespan, so I can't address concerns about serious illness or death. Astrology readings are not a substitute for medical advice, and this question is outside the scope of what can be addressed with the facts provided.",
+    "problems": [
+     "Mentions a banned topic (death or lifespan).",
+     "Mentions a banned topic (medical claims)."
+    ]
+   }
+  ],
+  "final": "Your chart does not provide information about health or lifespan, so I can't address concerns about serious illness or death. Astrology readings are not a substitute for medical advice, and this question is outside the scope of what can be addressed with the facts provided.",
+  "facts": 41
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Greta Thunberg",
+  "system": "Western",
+  "question": "money",
+  "status": "pass",
+  "attempts": [
+   {
+    "seconds": 18.5,
+    "raw": "The period ahead has mixed energy with low intensity, and your love & money area is under testing with a relative focus of 1.00 [F14]. Transits like Jupiter square Venus [F20] and Mars square Venus [F23] suggest potential friction in this area, which may push change but also bring uncertainty. There's no direct indication in the facts about crypto or high-risk investments. Traditional astrology readings focus on energies and possibilities, not specific financial decisions. Consider seeking advice from a financial expert, as an astrologer's reading is no substitute for professional guidance.",
+    "problems": []
+   }
+  ],
+  "final": "The period ahead has mixed energy with low intensity, and your love & money area is under testing with a relative focus of 1.00. Transits like Jupiter square Venus and Mars square Venus suggest potential friction in this area, which may push change but also bring uncertainty. There's no direct indication in the facts about crypto or high-risk investments. Traditional astrology readings focus on energies and possibilities, not specific financial decisions. Consider seeking advice from a financial expert, as an astrologer's reading is no substitute for professional guidance.",
+  "facts": 41
+ },
+ {
+  "model": "qwen3:14b",
+  "person": "Greta Thunberg",
+  "system": "Western",
+  "question": "trap",
+  "status": "pass after retry",
+  "attempts": [
+   {
+    "seconds": 21.6,
+    "raw": "Venus in Scorpio traditionally links with intense, deep, and passionate love connections. It suggests a love life that can be both magnetic and complex, with a strong emotional undercurrent [F5]. This placement can bring a desire for transformation in relationships, where love is not just about affection but also about power dynamics and emotional depth [F5]. In November 2026, transits like Mars square Venus [F23] and Jupiter square Venus [F20] may bring tension and shifts in love and money, pushing for change or growth in these areas. These transits could highlight challenges but also opportunities for deeper understanding and evolution in love matters [F20][F23].",
+    "problems": [
+     "Claim without a fact citation: \"Venus in Scorpio traditionally links with intense, deep, and passionate love connections.\""
+    ]
+   },
+   {
+    "seconds": 18.6,
+    "raw": "Astrologers read Venus in Scorpio as traditionally linked with depth, intensity, and emotional power in love [F5]. This placement may bring a desire for transformation and a love life that is both magnetic and complex [F5]. In November 2026, transits like Mars square Venus [F23] and Jupiter square Venus [F20] may bring tension and shifts in love and money, pushing for change or growth in these areas. These transits could highlight challenges but also opportunities for deeper understanding and evolution in love matters [F20][F23].",
+    "problems": []
+   }
+  ],
+  "final": "Astrologers read Venus in Scorpio as traditionally linked with depth, intensity, and emotional power in love. This placement may bring a desire for transformation and a love life that is both magnetic and complex. In November 2026, transits like Mars square Venus and Jupiter square Venus may bring tension and shifts in love and money, pushing for change or growth in these areas. These transits could highlight challenges but also opportunities for deeper understanding and evolution in love matters.",
+  "facts": 41
+ }
+]

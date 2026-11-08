@@ -189,7 +189,9 @@ def evaluate(natal: dict) -> dict:
     rows = [{"Yoga": n, "Type": cat, "Meaning": detail,
              "Status": "present" if c == len(scenarios) else "depends on birth time"}
             for (n, cat, detail), c in counts.items()]
-    rows.sort(key=lambda r: (r["Status"] != "present", r["Type"], r["Yoga"]))
+    # the meaning breaks ties between yogas of the same name (several Raja yogas), so the order,
+    # and the fact numbers built from it, are the same on every run
+    rows.sort(key=lambda r: (r["Status"] != "present", r["Type"], r["Yoga"], r["Meaning"]))
     return {"rows": rows, "lagna_known": lagna_opts != [None],
             "kuja": [{"Counted": k, "Status": "present" if c == len(scenarios) else "depends on birth time"}
-                     for k, c in kuja.items()]}
+                     for k, c in sorted(kuja.items())]}
